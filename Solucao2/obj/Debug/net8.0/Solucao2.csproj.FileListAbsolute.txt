@@ -1,0 +1,14 @@
+C:\CSharp\Solucao2\Solucao2\bin\Debug\net8.0\Solucao2.exe
+C:\CSharp\Solucao2\Solucao2\bin\Debug\net8.0\Solucao2.deps.json
+C:\CSharp\Solucao2\Solucao2\bin\Debug\net8.0\Solucao2.runtimeconfig.json
+C:\CSharp\Solucao2\Solucao2\bin\Debug\net8.0\Solucao2.dll
+C:\CSharp\Solucao2\Solucao2\bin\Debug\net8.0\Solucao2.pdb
+C:\CSharp\Solucao2\Solucao2\obj\Debug\net8.0\Solucao2.GeneratedMSBuildEditorConfig.editorconfig
+C:\CSharp\Solucao2\Solucao2\obj\Debug\net8.0\Solucao2.AssemblyInfoInputs.cache
+C:\CSharp\Solucao2\Solucao2\obj\Debug\net8.0\Solucao2.AssemblyInfo.cs
+C:\CSharp\Solucao2\Solucao2\obj\Debug\net8.0\Solucao2.csproj.CoreCompileInputs.cache
+C:\CSharp\Solucao2\Solucao2\obj\Debug\net8.0\Solucao2.dll
+C:\CSharp\Solucao2\Solucao2\obj\Debug\net8.0\refint\Solucao2.dll
+C:\CSharp\Solucao2\Solucao2\obj\Debug\net8.0\Solucao2.pdb
+C:\CSharp\Solucao2\Solucao2\obj\Debug\net8.0\Solucao2.genruntimeconfig.cache
+C:\CSharp\Solucao2\Solucao2\obj\Debug\net8.0\ref\Solucao2.dll

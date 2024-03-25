@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Solucao2", "Solucao2\Solucao2.csproj", "{B67CDDDF-B146-4F55-9047-5088BB3BD322}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestSolucao2", "TestSolucao2\TestSolucao2.csproj", "{8EE37849-7E0E-48E3-ADC3-1FE333F8BF7A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B67CDDDF-B146-4F55-9047-5088BB3BD322}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B67CDDDF-B146-4F55-9047-5088BB3BD322}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B67CDDDF-B146-4F55-9047-5088BB3BD322}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B67CDDDF-B146-4F55-9047-5088BB3BD322}.Release|Any CPU.Build.0 = Release|Any CPU
+		{797009BF-A489-40C8-8BC5-D0AA877D9045}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{797009BF-A489-40C8-8BC5-D0AA877D9045}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{797009BF-A489-40C8-8BC5-D0AA877D9045}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{797009BF-A489-40C8-8BC5-D0AA877D9045}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8EE37849-7E0E-48E3-ADC3-1FE333F8BF7A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8EE37849-7E0E-48E3-ADC3-1FE333F8BF7A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8EE37849-7E0E-48E3-ADC3-1FE333F8BF7A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8EE37849-7E0E-48E3-ADC3-1FE333F8BF7A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
